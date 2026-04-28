@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Strona-1" id="84g9sgM-ErbStaM68ycF">
+    <mxGraphModel dx="1230" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lk3mMqVoAZIi-0GK9mbg-36" edge="1" parent="1" source="Lk3mMqVoAZIi-0GK9mbg-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.048;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;" target="Lk3mMqVoAZIi-0GK9mbg-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk3mMqVoAZIi-0GK9mbg-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Administrator" vertex="1">
+          <mxGeometry height="60" width="30" x="110" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk3mMqVoAZIi-0GK9mbg-40" edge="1" parent="1" source="Lk3mMqVoAZIi-0GK9mbg-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lk3mMqVoAZIi-0GK9mbg-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk3mMqVoAZIi-0GK9mbg-58" edge="1" parent="1" source="Lk3mMqVoAZIi-0GK9mbg-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lk3mMqVoAZIi-0GK9mbg-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk3mMqVoAZIi-0GK9mbg-62" edge="1" parent="1" source="Lk3mMqVoAZIi-0GK9mbg-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lk3mMqVoAZIi-0GK9mbg-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk3mMqVoAZIi-0GK9mbg-64" edge="1" parent="1" source="Lk3mMqVoAZIi-0GK9mbg-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lk3mMqVoAZIi-0GK9mbg-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk3mMqVoAZIi-0GK9mbg-7" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="Panel monitoringu" vertex="1">
+          <mxGeometry height="80" width="100" x="210" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk3mMqVoAZIi-0GK9mbg-39" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="&lt;div&gt;Wyświetlenie&lt;/div&gt;&lt;div&gt;bieżących&lt;/div&gt;&lt;div&gt;danych o systemie&lt;/div&gt;" vertex="1">
+          <mxGeometry height="105" width="94" x="220" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk3mMqVoAZIi-0GK9mbg-53" parent="1" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" value="&lt;div&gt;Baza&lt;/div&gt;&lt;div&gt;danych&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="590" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk3mMqVoAZIi-0GK9mbg-55" edge="1" parent="1" source="Lk3mMqVoAZIi-0GK9mbg-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lk3mMqVoAZIi-0GK9mbg-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk3mMqVoAZIi-0GK9mbg-54" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="&lt;div&gt;Zapis działania&lt;/div&gt;&lt;div&gt;w postaci&lt;/div&gt;&lt;div&gt;logu&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="80" x="470" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk3mMqVoAZIi-0GK9mbg-60" edge="1" parent="1" source="Lk3mMqVoAZIi-0GK9mbg-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lk3mMqVoAZIi-0GK9mbg-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk3mMqVoAZIi-0GK9mbg-57" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="&lt;div&gt;Restart&lt;/div&gt;&lt;div&gt;usługi&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="70" x="350" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk3mMqVoAZIi-0GK9mbg-61" edge="1" parent="1" source="Lk3mMqVoAZIi-0GK9mbg-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lk3mMqVoAZIi-0GK9mbg-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk3mMqVoAZIi-0GK9mbg-59" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="&lt;div&gt;Start/Stop&lt;/div&gt;&lt;div&gt;usługi&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="70" x="350" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk3mMqVoAZIi-0GK9mbg-65" edge="1" parent="1" source="Lk3mMqVoAZIi-0GK9mbg-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lk3mMqVoAZIi-0GK9mbg-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk3mMqVoAZIi-0GK9mbg-63" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="&lt;div&gt;Wyświetlenie&lt;/div&gt;&lt;div&gt;raportów&lt;/div&gt;&lt;div&gt;o ewentualnych błędach&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="100" x="335" y="365" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
